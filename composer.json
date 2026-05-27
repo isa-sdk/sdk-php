@@ -1,6 +1,6 @@
 {
     "name": "isa-sdk/sdk",
-    "description": "Unified PHP SDK for ISA APIs (zyins / rapidsign / proxy / core).",
+    "description": "Unified PHP SDK for ISA APIs.",
     "type": "library",
     "license": "proprietary",
     "homepage": "https://docs.isaapi.com",
