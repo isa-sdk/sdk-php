@@ -1,0 +1,4 @@
+# Read-only mirror — contents are auto-published from
+# isa-platform/packages/php/ on every sdk/v* release tag.
+# Manual edits will be overwritten on the next publish.
+* @isa-sdk/dev-platform
